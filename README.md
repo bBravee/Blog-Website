@@ -2,4 +2,4 @@
 Simple blog website using ejs module
 
 
-Add "/Compose" to end of URL to compose new post on a webpage
+Add "/compose" to end of URL to compose new post on a webpage
